@@ -12,19 +12,25 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me2.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Arefin</h2>
-        <p><a href="mailto:ahmedarefinsajjad@gmail.com">mail@arefin.com</a></p>
+        <h2>Arefin Ahmed</h2>
+        <p>
+          <a href="mailto:ahmedarefinsajjad@gmail.com">mail@arefin.com</a>
+        </p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Welcome to my portfolio! I am Arefin, a student by the day and a web developer by the night.</p>
+      <p>
+        Hi, I&apos;m Arefin and the rest is to be known.
+      </p>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Arefin <Link to="/"> </Link>.</p>
+      <p className="copyright">
+        &copy; Arefin Ahmed <Link to="/">arefin.com</Link>.
+      </p>
     </section>
   </section>
 );

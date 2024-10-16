@@ -1,10 +1,9 @@
-
 # Intro
 
 I am a student and a tech enthusiast residing in Pallet Town :D (pun intended).
 Here are some fun information about me below.
 
-# I like
+# I Like
 
 * Beach 🏖️
 * Books 📖
@@ -13,7 +12,7 @@ Here are some fun information about me below.
 * Space 🌌
 * Photography 📷
 
-# Fun facts
+# Fun Facts
 
 * I can walk a lot without complaining.
 * I am a big fan of Dragon Ball!
